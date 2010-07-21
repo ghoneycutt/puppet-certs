@@ -1,0 +1,7 @@
+certs
+
+Released 20100721 - Garrett Honeycutt - GPLv2
+
+This module does nothing.. but does provide a framework for installing certificates.
+It has been published for completeness since other modules on the Puppet Forge
+depend upon it.

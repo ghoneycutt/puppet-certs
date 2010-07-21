@@ -1,0 +1,20 @@
+{
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "3c308bea5eec0c181e37a8e3f7fa2fa1",
+    "tests/init.pp": "a906541dbb4c73ad8fc16e9c29c7de99",
+    "manifests/redhat.pp": "b0a5bc528c4273b372b58095817c2ccf",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "151b505aa81d5eb8f8aba5c152aa990f",
+    "manifests/init.pp": "dbe2bcb0a75356f747b58e4f13ae6a6e"
+  },
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-certs",
+  "types": [
+
+  ]
+}
